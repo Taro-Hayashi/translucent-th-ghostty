@@ -20,3 +20,11 @@ Then add to your `config`:
 ```
 theme = dark-translucent
 ```
+
+## Enable Transparency
+
+To enable window transparency, add the following to your `config`:
+
+```
+background-opacity = 0.8
+```
